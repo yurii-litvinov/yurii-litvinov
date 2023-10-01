@@ -6,7 +6,7 @@
 
 ## Related repositories
 
-- TestY test management system, developed as a collaboration of YADRO and SPbU: https://github.com/YADRO-KNS/testy-tms
+- TestY test management system, developed as a collaboration of YADRO and SPbU: https://github.com/YADRO-KNS/testy-tms (archived).
 
 ## Some stats
 
